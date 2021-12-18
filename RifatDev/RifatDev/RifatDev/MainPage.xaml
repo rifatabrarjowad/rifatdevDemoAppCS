@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RifatDev.MainPage">
+    <Grid  RowDefinitions="Auto, *" ColumnDefinitions="*, *" BackgroundColor="#111a28" >
+        <Frame BackgroundColor="#111a28" Grid.Column="0" HorizontalOptions="Start" Padding="24" WidthRequest="70" CornerRadius="0">
+           <Image Source="logo.png" />
+        </Frame>
+       <!-- <Frame BackgroundColor="#111a28" Grid.Column="1"  Padding="24,40,24,40" WidthRequest="50" HeightRequest="20"  CornerRadius="0">
+           <Button BackgroundColor="#ff8203" HorizontalOptions="Center" VerticalOptions="Center"  Text="Home" Padding="2" TextColor="White" />
+        </Frame> -->
+        <StackLayout  Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"  >
+        
+            <Label Text="Hello I'm"  FontFamily="fok" FontSize="15" TextColor="#ff8203" Padding="30,0,0,0"/>
+            <Label FontFamily="fok" Text="Rifat Abrar " FontSize="30" TextColor="#fff" Padding="30,0,0,0"/>
+            <Label Text="Full Stack Developer " FontSize="15"  FontFamily="fok"  TextColor="#ff8203" Padding="30,0,0,10"/>
+            <Label TextColor="white" HorizontalOptions="Center"  FontFamily="fok"  Text="Over the last 2 years, I have been working as a senior Web Developer .I am an expert in any kinds of web development.
+
+&#x0a; My skills are: &#x0a;
+PROGRAMING LANGUAGE: C, Javascript, PHP, PYTHON, Java &#x0a;
+CORE : HTML5, CSS3, BOOTSTRAP, REACT, LARAVEL,WORDPRESS,MYSQL,VUE &#x0a;
+OTHERE : DJANGO, TENSOR FLOW, UNITY, PyQT, KIVY, TKINTER" FontSize="11" Padding="30,0,30,0"/>
+            
+        </StackLayout>
+        <StackLayout Grid.Row="1" Grid.Column="1" >
+            <Image WidthRequest="120" HeightRequest="160" HorizontalOptions="End" Source="rif.jpeg" />
+        </StackLayout>
+        
+        <StackLayout Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" >
+            <Label  FontFamily="fok"  TextColor="#ff8203" Padding="40,100,0,0" FontSize="15" Text="Contact" TextDecorations="Underline"/>
+            <Label  FontFamily="fok" Text="Mail   : rajdiprifat2004@gmail.com" FontSize="11" TextColor="#fff" Padding="40,0,0,0"/>
+            <Label  FontFamily="fok" Text="Call   : +880 1717 077 757" FontSize="11" TextColor="#fff" Padding="40,0,0,0"/>
+            <Label  FontFamily="fok" Text="Skype  : rajdiprifat2004" FontSize="11" TextColor="#fff" Padding="40,0,0,0"/>
+            <Label  FontFamily="fok" Text="Social : Facebook/Twitter - @rifatabrarjowad" FontSize="11" TextColor="#fff" Padding="40,0,0,0"/>
+        </StackLayout>
+        
+      
+
+    </Grid>
+
+
+</ContentPage>

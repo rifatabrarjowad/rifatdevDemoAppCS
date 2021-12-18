@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4U/n9D3A3CU6InlFRG3jTUADQbMWWDzeOObhl7N9v0TS2g6n60cBAtt7V34sVvj1RE5yDZz0pSBul3VLD/d9pg==",
+  "success": true,
+  "projectFilePath": "/Users/shahazanali/Projects/RifatDev/RifatDev.iOS/RifatDev.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/shahazanali/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/shahazanali/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/shahazanali/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

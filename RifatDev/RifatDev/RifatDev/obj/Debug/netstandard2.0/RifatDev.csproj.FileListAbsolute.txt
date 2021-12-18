@@ -1,0 +1,15 @@
+/Users/shahazanali/Projects/RifatDev/RifatDev/bin/Debug/netstandard2.0/RifatDev.deps.json
+/Users/shahazanali/Projects/RifatDev/RifatDev/bin/Debug/netstandard2.0/RifatDev.dll
+/Users/shahazanali/Projects/RifatDev/RifatDev/bin/Debug/netstandard2.0/ref/RifatDev.dll
+/Users/shahazanali/Projects/RifatDev/RifatDev/bin/Debug/netstandard2.0/RifatDev.pdb
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/RifatDev.csproj.AssemblyReference.cache
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/RifatDev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/RifatDev.AssemblyInfoInputs.cache
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/RifatDev.AssemblyInfo.cs
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/RifatDev.csproj.CoreCompileInputs.cache
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/RifatDev.dll
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/ref/RifatDev.dll
+/Users/shahazanali/Projects/RifatDev/RifatDev/obj/Debug/netstandard2.0/RifatDev.pdb

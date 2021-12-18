@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3BAF7F5A-7BC1-4052-BCAD-F0F538A5EF73}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RifatDev/AssemblyInfo.cs">
+    <Files>
+      <File FileName="RifatDev/MainPage.xaml" Line="22" Column="23" />
+      <File FileName="RifatDev/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="RifatDev/AssemblyInfo.cs" Line="4" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RifatDev" expanded="True">
+            <Node name="RifatDev" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Fonts" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AssemblyInfo.cs" selected="True" />
+            </Node>
+            <Node name="RifatDev.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RifatDev.Android PreferredExecutionTarget="Android.30e9d4af0404" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RifatDev.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.546DCB59-3E55-4293-BFA3-C47F6E0FC503" />
+</Properties>
